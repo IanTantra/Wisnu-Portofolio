@@ -8,6 +8,12 @@
   content="upgrade-insecure-requests" />
     <title>Portofolio {{ $title }}</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+      <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.0/css/all.css" />
+  <!-- Google Fonts Roboto -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" />
+  {{-- <!-- MDB -->
+  <link rel="stylesheet" href="css/mdb.min.css" /> --}}
   </head>
   <body>
 
@@ -55,6 +61,8 @@
         </footer>
         <!-- Footer -->
       </section>
+      {{-- <!-- MDB -->
+  <script type="text/javascript" src="js/mdb.umd.min.js"></script> --}}
 
       
 
